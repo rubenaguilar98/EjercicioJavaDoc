@@ -19,11 +19,23 @@ Se hace uso de *getters y setters* para dar y obtener los valores los diferentes
 Con los siguientes métodos podremos manejar y operar los números complejos 
 
  - Suma
+
+ ![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/sumar.PNG)
  - Resta
- - Multiplicar 
+ 
+ ![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/restar.PNG)<br>
+ - Multiplicar
+ 
+ ![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/multiplicar.PNG)
  - Dividir
+ 
+ ![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/dividir.PNG)
  - Módulo
+ 
+ ![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/modulo.PNG)
  - ToString 
+ 
+ ![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/tostring.PNG)
 
 ## Uso del programa
 
