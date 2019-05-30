@@ -19,7 +19,6 @@ Se hace uso de *getters y setters* para dar y obtener los valores los diferentes
 Con los siguientes métodos podremos manejar y operar los números complejos 
 
  - Suma
- https://picasaweb.google.com/107298142916675811513/6696919853828413665#6696919859628054914
  - Resta
  - Multiplicar 
  - Dividir
