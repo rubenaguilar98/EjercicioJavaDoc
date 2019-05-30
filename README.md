@@ -40,6 +40,8 @@ Con los siguientes métodos podremos manejar y operar los números complejos
 ## Uso del programa
 
 Para hacer uso de este programa tenemos otro programa en el cual se llama a los métodos y se les dan los valores que queramos. No olvidar que para ver el resultado deberemos llamar a las funciones dentro de un System.out.print();
+
+![Añadir Imagen](https://github.com/rubenaguilar98/EjercicioJavaDoc/blob/master/img/usoComplejos.PNG)
 ## Información
 
 Si aun no sabes que son los números complejos, aquí tienes información.
